@@ -1,0 +1,26 @@
+/*
+ Theme Name:   Super Minimal Child Theme
+ description: >-
+   A child theme of the Super Minimal default WordPress theme
+ Author:       Kimberly Sereduck
+ Template:     super-minimal
+ Version:      1.0.0
+*/
+.blog-title {
+	font-style: italic;
+	line-height: 1.4em;
+}
+.blog-title a {
+	color: black;
+}
+header#masthead a:hover {
+	text-decoration: underline;
+}
+.title-emphasis {
+	text-align: center;
+	font-size: 1.8em;
+}
+.title-emphasis-sm {
+	text-align: center;
+	font-size: 1.4em;
+}
